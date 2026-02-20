@@ -6,9 +6,6 @@ MERN Stack Learner
 
 ---
 
-🌿 Built **Nivaran.io** — A civic issue reporting 
-platform for rural India
-
 🎓 **IPS Academy Indore** — B.Tech CSE
 
 💻 **Tech Stack:**
@@ -46,21 +43,11 @@ platform for rural India
 
 ---
 
-### 🌟 Featured Project
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌿 [Nivaran.io](https://github.com/shivamrajputdev/Nivaran.io) | Rural civic issue reporting platform | React, HTML, CSS, JS |
-
----
 
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamrajput-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/shivamrajputdev)
 
----
 
-<p align="center">
-⭐ <i>"Every village deserves to be heard."</i> ⭐
-</p>
+
